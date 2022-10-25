@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(./../img/back2.jfif);
+    background-size: cover;
+}
+
+
+
+.card{
+    background: transparent;
+}
+
+.container .card {
+    border: none;
+    margin-top: 10%;
+    
+}
+
+.container .card label {
+    color: #ffff;
+    font-size: 1rem;
+}
+
+.card-header {
+    color: #ffff;
+    font-size: 1rem;
+}
+
+.btn-link {
+    color:darkgoldenrod;
+}
